@@ -1,0 +1,2 @@
+# nova-project
+yeni projemiz
